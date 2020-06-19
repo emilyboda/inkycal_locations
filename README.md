@@ -5,7 +5,9 @@ This is third-party module for the inkycal project
 This module displays the locations of people who are sharing their locations with you via Google Location Sharing.
 
 # Screenshot
-
+<p align="center">
+<img src="https://github.com/emilyboda/inkycal_locations/blob/master/locations%20module%20screenshot%20example.jpg" width="900"><img 
+</p>
 
 # Dependencies
 * The locations must be sharing their location with you via the official Google Location Sharing site. This should be done via the Google Maps application. This can be done on any mobile platform. If the person has an iPhone, they will need to remember to open the Maps app every few days to ensure the iOS battery management settings doesn't put it to sleep. Google will frequently send emails to everyone reminding them that they are sharing their location, as a security measure. I chose Google Location Sharing because it is native to my mobile operating system and therefore the battery impact would be low when compared to other third-party apps like OwnTracks or Life360.
